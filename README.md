@@ -1,6 +1,6 @@
 ### Hi GitHub community👋
 
-> _"Never dream about success. Work for it."_
+> _"ever dream about success. Work for it."_
 
 - 🆕 I'm at the very beginning of my journey as a Web developer so I would be grateful for any support.
 - 👩‍🎓 I'm currently studying the basics on my own, enjoying learning new things every day.
