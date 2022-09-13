@@ -2,10 +2,9 @@
 
 > _"Never dream about success. Work for it."_
 
-- 🆕 I'm at the very beginning of my journey as a Web developer so I would be grateful for any support.
-- 👩‍🎓 I'm currently studying the basics on my own, enjoying learning new things every day.
+- 👩‍🎓 I'm currently completing Web development program at [HackYourFuture Belgium](https://github.com/HackYourFutureBelgium).
 - 🧭 My past experience in project management and entrepreneurship has shaped me as a good team player and excellent communicator. I believe that these skills will help me to become a good developer.
-- :ru: I speak Russian, English and French. I also teach French in my free time.
+- :ru: I speak English, French and Russian.
 - 🌎 I'm eager to contribute to Web world development in order to solve human problems in the real world.
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Let's get in touch](https://www.linkedin.com/in/1404mikhailova/)
 
