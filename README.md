@@ -5,7 +5,7 @@
 - 👩‍🎓 I'm currently completing Web development program at [HackYourFuture Belgium](https://github.com/HackYourFutureBelgium).
 - 🧭 My past experience in project management and entrepreneurship has shaped me as a good team player and excellent communicator. These are the core skills of a successful developer.
 - :ru: I speak English, French and Russian.
-- 🌎 I'm eager to contribute to Web world development in order to solve human problems in the real world.
+- 🌎 I'm eager to contribute to digital world in order to solve human problems in the real world.
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Let's get in touch](https://www.linkedin.com/in/1404mikhailova/)
 
 <!--
