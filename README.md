@@ -2,7 +2,7 @@
 
 > _"Never dream about success. Work for it."_
 
-- 👩‍🎓 I'm currently completing Web development program at [HackYourFuture Belgium](https://github.com/HackYourFutureBelgium).
+- 👩‍🎓 I have completed Web development program at [HackYourFuture Belgium](https://github.com/HackYourFutureBelgium) in December 2022.
 - 🧭 My past experience in project management and entrepreneurship has shaped me as a good team player and excellent communicator. These are the core skills of a successful developer.
 - :ru: I speak English, French and Russian.
 - 🌎 I'm eager to contribute to digital world in order to solve human problems in the real world.
