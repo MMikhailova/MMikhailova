@@ -3,7 +3,7 @@
 > _"Never dream about success. Work for it."_
 
 - 👩‍🎓 I have completed Web development program at [HackYourFuture Belgium](https://github.com/HackYourFutureBelgium) in December 2022.
-- 🧭 My past experience in project management and entrepreneurship has shaped me as a good team player and excellent communicator. These are the core skills of a successful developer.
+- 🧭 My past experience in Project Management and Entrepreneurship has shaped me as a good team player and excellent communicator. Aren't these the main qualities of a great developer?🤔
 - :ru: I speak English, French and Russian.
 - 🌎 I'm eager to contribute to digital world in order to solve human problems in the real world.
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Let's get in touch](https://www.linkedin.com/in/1404mikhailova/)
